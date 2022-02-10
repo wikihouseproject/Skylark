@@ -1,6 +1,6 @@
 
 # Skylark 250 series
-Skylark 250 is the main WikiHouse building system. The structure is deep enough to contain 250mm of wall insulation and it is intended for use in 1-3 storey detached buildings. For more information, view the design guide.
+Skylark 250 is the main WikiHouse building system. The structure is deep enough to contain 250mm of wall insulation and it is intended for use in 1-3 storey detached buildings. For more information, view the design guide (https://www.wikihouse.cc/guides/design).
 
 BY USING THIS INFORMATION YOU AGREE 
 TO THE FULL WIKIHOUSE TERMS OF USE:
