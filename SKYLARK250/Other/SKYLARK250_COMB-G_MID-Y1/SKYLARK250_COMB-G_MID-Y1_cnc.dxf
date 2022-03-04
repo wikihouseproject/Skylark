@@ -25,7 +25,7 @@ $INSBASE
   9
 $EXTMIN
  10
--29.51888476929162
+0.0
  20
 0.0
  30
@@ -33,9 +33,9 @@ $EXTMIN
   9
 $EXTMAX
  10
-22235.69850653505
+22329.29011987701
  20
-23679.27570363467
+23679.27570363465
  30
 0.0
   9
@@ -421,11 +421,11 @@ $SKPOLY
   9
 $TDCREATE
  40
-2459618.888828391
+2459641.506020173
   9
 $TDUPDATE
  40
-2459618.888839826
+2459641.506032222
   9
 $TDINDWG
  40
@@ -1681,9 +1681,9 @@ DONOTCUT
 100
 AcDbMText
  10
--29.51888476929162
+64.07272857266071
  20
-23679.27570363467
+23679.27570363465
  30
 0.0
  40
@@ -1695,17 +1695,17 @@ AcDbMText
  72
      1
   3
-{\fArial;WIKIHOUSE SKYLARK BLOCKS}\P{\fArial;CNC MANUFACTURING FILES}\P{\fArial;WIKIHOUSE SKYLARK SYSTEM v0.1.0 (www.wikihouse.cc)}\P{\fArial;Developed by Open Systems Lab}\P\P{\fArial;CC-BY-SA 4.0}\P{\fArial;GENERAL RELEASE v0.1.0}\P{\fArial;ISSUED
+{\fArial;WIKIHOUSE SKYLARK BLOCKS}\P{\fArial;CNC MANUFACTURING FILES}\P{\fArial;WIKIHOUSE SKYLARK SYSTEM}\P{\fArial;(www.wikihouse.cc)}\P{\fArial;Developed by Open Systems Lab}\P\P{\fArial;CC-BY-SA 4.0}\P{\fArial;GENERAL RELEASE v0.1.1}\P{\fArial;IS
   3
-: 21/01/2022}\P\P{\fArial;BY USING THIS INFORMATION YOU AGREE }\P{\fArial;TO THE FULL WIKIHOUSE TERMS OF USE:}\P{\fArial;https://www.wikihouse.cc/Terms-of-Use}\P\P{\fArial;WikiHouse information and files are shared }{\fArial;‘as is}{\fArial;’, witho
+SUED: 01/03/2022}\P\P{\fArial;BY USING THIS INFORMATION YOU AGREE }\P{\fArial;TO THE FULL WIKIHOUSE TERMS OF USE:}\P{\fArial;https://www.wikihouse.cc/terms}\P\P{\fArial;WikiHouse information and files are shared }{\fArial;‘as is}{\fArial;’, without 
   3
-ut warranties, guarantees }\P{\fArial;or certifications of any kind, express or implied. This includes, without limitation, }\P{\fArial;warranties that the content is accurate, complete, free of defects, fit for a particular }\P{\fArial;purpose or n
+warranties, guarantees }\P{\fArial;or certifications of any kind, express or implied. This includes, without limitation, }\P{\fArial;warranties that the content is accurate, complete, free of defects, fit for a particular }\P{\fArial;purpose or non-
   3
-on-infringing in relation to the use of WikiHouse information or the }\P{\fArial;results of such use. You are wholly responsible for checking WikiHouse }\P{\fArial;information and for using WikiHouse information in a safe way, and for satisfying }\P
+infringing in relation to the use of WikiHouse information or the }\P{\fArial;results of such use. You are wholly responsible for checking WikiHouse }\P{\fArial;information and for using WikiHouse information in a safe way, and for satisfying }\P{\f
   3
-{\fArial;yourself that you meet all relevant regulations, including planning regulations, }\P{\fArial;building codes and health & safety legislation; as well as for working with }\P{\fArial;appropriate equipment and materials and appropriately compe
+Arial;yourself that you meet all relevant regulations, including planning regulations, }\P{\fArial;building codes and health & safety legislation; as well as for working with }\P{\fArial;appropriate equipment and materials and appropriately competen
   1
-tent persons. Every }\P{\fArial;project should always be checked by a structural engineer. For more specific }\P{\fArial;advice, the End User should engage relevant qualified professionals or competent }\P{\fArial;persons.}\P
+t persons. Every }\P{\fArial;project should always be checked by a structural engineer. For more specific }\P{\fArial;advice, the End User should engage relevant qualified professionals or competent }\P{\fArial;persons.}\P
   7
 ARIAL_REGULAR
 1001
@@ -1715,7 +1715,7 @@ ACAD_MTEXT_DEFINED_HEIGHT_BEGIN
 1070
     46
 1040
-9773.369565217392
+10173.36956521739
 1000
 ACAD_MTEXT_DEFINED_HEIGHT_END
   0
@@ -1731,9 +1731,9 @@ DONOTCUT
 100
 AcDbMText
  10
--29.51888476929162
+64.07272857266071
  20
-13042.05652182333
+13042.05652182331
  30
 0.0
  40
@@ -1777,9 +1777,9 @@ AcDbEntity
 100
 AcDbMText
  10
-5366.127636557983
+4867.840930492981
  20
-2369.772672134874
+2374.096996459222
  30
 0.0
  40
@@ -1795,9 +1795,9 @@ COMB-G/MID-Y1
   7
 MONOTXT_REGULAR
  11
-6.123233995736766E-17
+1.927959494148846E-13
  21
--1.0
+1.0
  31
 0.0
 1001
@@ -1823,9 +1823,9 @@ AcDbEntity
 100
 AcDbMText
  10
-4867.840930492981
+5366.127636557983
  20
-2374.096996459222
+2369.772672134874
  30
 0.0
  40
@@ -1841,9 +1841,9 @@ COMB-G/MID-Y1
   7
 MONOTXT_REGULAR
  11
-1.927959494148846E-13
+6.123233995736766E-17
  21
-1.0
+-1.0
  31
 0.0
 1001
@@ -17145,9 +17145,9 @@ clayt
  40
 0.0
  41
-2459618.888828391
+2459641.506020173
  42
-2459618.888839826
+2459641.506032222
   1
 
  90
@@ -18537,7 +18537,7 @@ XRECORD
 100
 AcDbXrecord
   1
-{b3a71eb8-4b1d-44f7-9346-7de7e86c6a7a}
+{e6dc1adf-8e2a-4d7a-b053-24b5e7c6ee67}
   0
 XRECORD
   5
