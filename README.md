@@ -5,6 +5,6 @@ For more information, product guides, and support services please visit www.wiki
 #### This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 
-Developed and maintained by the friendly team at Open Systems Lab (www.opensystemslab.io)
+Developed and maintained by the friendly team at Open Systems Lab (www.opensystemslab.io). By using this information you agree to the <a href="https://www.wikihouse.cc/terms">full End User Licence Agreement</a> 
 
 ![alt tag](https://github.com/wikihouseproject/Skylark/blob/main/WikiHouse_SKYLARK_assembly_axo.png)
