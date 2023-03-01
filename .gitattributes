@@ -1,0 +1,2 @@
+SKYLARK250/Design[[:space:]]kit/SKYLARK250_design-kit_detailed/**/* filter=lfs diff=lfs merge=lfs -text
+SKYLARK200/Design[[:space:]]kit/SKYLARK200_design-kit_detailed/**/* filter=lfs diff=lfs merge=lfs -text
