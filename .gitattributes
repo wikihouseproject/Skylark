@@ -1,2 +1,7 @@
 SKYLARK250/Design[[:space:]]kit/SKYLARK250_design-kit_detailed/**/* filter=lfs diff=lfs merge=lfs -text
 SKYLARK200/Design[[:space:]]kit/SKYLARK200_design-kit_detailed/**/* filter=lfs diff=lfs merge=lfs -text
+*SKYLARK200_design-kit_blocks_detailed.blend filter=lfs diff=lfs merge=lfs -text
+*SKYLARK200_design-kit_blocks_detailed.ifc filter=lfs diff=lfs merge=lfs -text
+*SKYLARK200_design-kit_blocks_detailed.3dm filter=lfs diff=lfs merge=lfs -text
+*SKYLARK200_design-kit_blocks_detailed.skp filter=lfs diff=lfs merge=lfs -text
+*SKYLARK200_design-kit_blocks_detailed.dwg filter=lfs diff=lfs merge=lfs -text
