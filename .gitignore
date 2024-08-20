@@ -1,2 +1,5 @@
 .DS_Store
 .gitattributes
+*.skb
+*~.skp
+*3dmbak
