@@ -1,2 +1,2 @@
-SKYLARK200_design-kit_* filter=lfs diff=lfs merge=lfs -text
-SKYLARK250_design-kit_* filter=lfs diff=lfs merge=lfs -text
+*SKYLARK200_design-kit_* filter=lfs diff=lfs merge=lfs -text
+*SKYLARK250_design-kit_* filter=lfs diff=lfs merge=lfs -text
